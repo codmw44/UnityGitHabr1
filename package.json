@@ -1,0 +1,20 @@
+{
+  "name": "com.vishnitsky.yamlgitmerge",
+  "version": "1.0.0",
+  "displayName": "YAML Git merge for unity",
+  "description": "",
+  "unity": "2019.1",
+  "unityRelease": "0b5",
+  "dependencies": {
+  },
+  "keywords": [
+    "GIT",
+    "YAML",
+    "merge"
+  ],
+  "author": {
+    "name": "Andrew Vishnitsky",
+    "email": "codmw44@gmail.com",
+    "url": "https://github.com/codmw44/unitygithub1"
+  }
+}
