@@ -1,5 +1,8 @@
 #### Unity YAML merge for git
 
+Warning!
+For mac required git tool from xcode
+
 Add plugin via Unity Package Manager (UPM)
 
 Open at Unity Window/Package Manager
